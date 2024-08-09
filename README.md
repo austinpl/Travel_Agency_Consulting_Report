@@ -26,16 +26,16 @@ This model was applied to assess the impact of remote work on employee retention
 
 ## Findings
 ### 1. Employee Satisfaction
-Result: The DiD analysis revealed a 0.4974-unit increase in satisfaction for remote workers compared to office workers. This result was statistically significant (p-value = 0.034).
-Conclusion: Working from home has a positive impact on employee satisfaction.
+* Result: The DiD analysis revealed a 0.4974-unit increase in satisfaction for remote workers compared to office workers. This result was statistically significant (p-value = 0.034).
+* Conclusion: Working from home has a positive impact on employee satisfaction.
 
 ### 2. Employee Retention
-Result: Logistic regression showed that remote workers were approximately 0.7726 times more likely to stay with the company than office workers. This result was highly significant (p-value = 0.005).
-Conclusion: Remote work positively influences employee retention.
+* Result: Logistic regression showed that remote workers were approximately 0.7726 times more likely to stay with the company than office workers. This result was highly significant (p-value = 0.005).
+* Conclusion: Remote work positively influences employee retention.
 
 ### 3. Employee Performance
-Result: The DiD model indicated a 0.5643-unit increase in performance for remote workers, with a p-value of less than 0.001.
-Conclusion: Remote work improves employee performance.
+* Result: The DiD model indicated a 0.5643-unit increase in performance for remote workers, with a p-value of less than 0.001.
+* Conclusion: Remote work improves employee performance.
 
 ## Recommendations
 Based on the empirical analysis, the report strongly recommends expanding remote work policies within the company, as it leads to improved employee satisfaction, retention, and performance.
